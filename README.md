@@ -6,7 +6,7 @@
 [![Twitter URL](https://img.shields.io/badge/Twitter-100000?style=flat&logo=twitter&logoColor=white&color=blue)](https://www.twitter.com/alefontal)
 [![Instagram URL](https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=white&color=D92C7C)](https://www.instagram.com/afontal/)
 
-I'm Alejandro, a researcher from Barcelona specialized in the application of Data Science in several areas, including but not limited to Bioinformatics, Epidemiology and Computational Biomedicine.
+I'm Alejandro, a researcher from Barcelona specialized in the application of Data Science in several areas, including but not limited to Bioinformatics, Epidemiology and Computational Biomedicine. Feel free to reach me in any of the socials I left above!
 
 #### Current role
 
