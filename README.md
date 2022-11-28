@@ -5,7 +5,7 @@ I'm Alejandro, a researcher from Barcelona specialized in the application of Dat
 
 #### Current role
 
-I am currently performing my research in the Barcelona Institute for Global Health ([ISGlobal](https://www.isglobal.org/)), while pursuing a PhD in the University of Barcelona ([UB](https://www.ub.edu/)) funded by a [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) Fellowship under the umbrella of the [HELICAL Innovative Training Network](https://helical-itn.eu/).
+I am currently performing my research in the Barcelona Institute for Global Health ([ISGlobal](https://www.isglobal.org/)), while pursuing a PhD in the University of Barcelona ([UB](https://www.ub.edu/)) funded by a [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) Fellowship under the umbrella of the [HELICAL Innovative Training Network](https://helical-itn.github.io).
 
 In my research project, I combine tools from Time Series Analysis, GIS, Metagenomic sequencing and Epidemiology to try to find out what are the etiologic agents causing a pedriatric syndrome affecting thousands of children every year: Kawasaki Disease.
 
