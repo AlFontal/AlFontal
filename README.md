@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://alfontal.github.io">
-    <img src="https://raw.githubusercontent.com/AlFontal/common-assets/main/logos/hexbin_logo.svg" align="left" width="160" />
+    <img src="https://raw.githubusercontent.com/AlFontal/common-assets/main/logos/hexbin_logo.svg" align="right" width="160" />
   </a>
   Welcome to my profile 👋
   </br>
