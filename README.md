@@ -1,5 +1,39 @@
-### Hi there! Welcome to my profile 👋
-[![Gitlab URL](https://img.shields.io/badge/GitLab-100000?style=flat&logo=gitlab&logoColor=white&color=orange)](https://www.gitlab.com/AlFontal/) [![Linkedin URL](https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=white&color=0A66C2)](https://www.linkedin.com/in/AlFontal/) [![ResearchGate URL](https://img.shields.io/badge/ResearchGate-100000?style=flat&logo=researchgate&logoColor=white&color=darkgreen)](https://www.researchgate.net/profile/Alejandro-Fontal) [![Gmail URL](https://img.shields.io/badge/GMail-100000?style=flat&logo=gmail&logoColor=white&color=darkred)](mailto:alejandrofontal92@gmail.com) [![Twitter URL](https://img.shields.io/badge/Twitter-100000?style=flat&logo=twitter&logoColor=white&color=blue)](https://www.twitter.com/alefontal) [![Instagram URL](https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=white&color=D92C7C)](https://www.instagram.com/afontal/)
+<h1 align="center">
+  <a href="https://alfontal.github.io">
+    <img src="https://raw.githubusercontent.com/AlFontal/common-assets/main/logos/hexbin_logo.svg" align="left" width="160" />
+  </a>
+  Welcome to my profile 👋
+  </br>
+  <a href="https://alfontal.github.io">
+    <img alt="Alejandro Fontal's personal Website" src="https://shields.io/badge/Personal-Website-223" />
+  </a>
+  <p align="center">
+    <a href="https://www.gitlab.com/AlFontal/">
+      <img src="https://img.shields.io/badge/GitLab-100000?style=flat&logo=gitlab&logoColor=white&color=orange" />
+    </a>
+    <a href="https://www.linkedin.com/in/AlFontal/">
+      <img src="https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
+    </a>
+    <a href="https://orcid.org/0000-0003-1138-2158">
+      <img src=" https://img.shields.io/badge/ORCID-100000?style=flat&logo=ORCID&logoColor=white&color=A6CE39" />
+    </a>
+    <a href="https://www.researchgate.net/profile/Alejandro-Fontal">
+      <img src="https://img.shields.io/badge/ResearchGate-100000?style=flat&logo=researchgate&logoColor=white&color=darkgreen" />
+    </a>
+    <a href="mailto:alejandrofontal92@gmail.com">
+      <img src="https://img.shields.io/badge/GMail-100000?style=flat&logo=gmail&logoColor=white&color=darkred" />
+    </a>
+    <a href="https://www.twitter.com/alefontal">
+      <img src="https://img.shields.io/badge/Twitter-100000?style=flat&logo=twitter&logoColor=white&color=blue" />
+    </a>
+    <a href="https://www.instagram.com/afontal/">
+      <img src="https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=white&color=D92C7C" />
+    </a>
+
+  </p>
+</h1>
+</br>
+
 
 I'm Alejandro, a researcher from Barcelona specialized in the application of Data Science in several areas, including but not limited to Bioinformatics, Epidemiology and Computational Biomedicine. Feel free to reach me in any of the socials I left above!
 
