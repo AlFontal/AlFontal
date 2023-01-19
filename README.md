@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=linkedin&logoColor=white&color=0A66C2" />
     </a>
     <a href="https://orcid.org/0000-0003-1138-2158">
-      <img src=" https://img.shields.io/badge/ORCID-100000?style=flat&logo=ORCID&logoColor=white&color=A6CE39" />
+      <img src="https://img.shields.io/badge/ORCID-100000?style=flat&logo=ORCID&logoColor=white&color=A6CE39" />
     </a>
     <a href="https://www.researchgate.net/profile/Alejandro-Fontal">
       <img src="https://img.shields.io/badge/ResearchGate-100000?style=flat&logo=researchgate&logoColor=white&color=darkgreen" />
@@ -33,7 +33,8 @@
   </p>
 </h1>
 </br>
-
+<p></p>
+</br>
 
 I'm Alejandro, a researcher from Barcelona specialized in the application of Data Science in several areas, including but not limited to Bioinformatics, Epidemiology and Computational Biomedicine. Feel free to reach me in any of the socials I left above!
 
