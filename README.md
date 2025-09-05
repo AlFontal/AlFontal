@@ -44,7 +44,7 @@ I am currently performing my research in the Barcelona Institute for Global Heal
 
 #### Technology Stack
 
-![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=white&color=blue) ![R](https://img.shields.io/badge/R-100000?style=flat&logo=r&logoColor=white&color=blue) ![Git](https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=white&color=blue) ![Linux](https://img.shields.io/badge/Linux-100000?style=flat&logo=Linux&logoColor=white&color=blue) ![VS CODE](https://img.shields.io/badge/VSCode-100000?style=flat&logo=visualstudiocode&logoColor=white&color=blue)
+![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=white&color=blue) ![R](https://img.shields.io/badge/R-100000?style=flat&logo=r&logoColor=white&color=blue) ![Git](https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=white&color=blue) ![Linux](https://img.shields.io/badge/Linux-100000?style=flat&logo=Linux&logoColor=white&color=blue) ![VS CODE](https://img.shields.io/badge/VSCode-100000?style=flat&logo=visualstudiocode&logoColor=white&color=blue) ![Docker](https://img.shields.io/badge/Docker-100000?style=flat&logo=docker&logoColor=white&color=blue)
 
 
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfontal&theme=vue)
