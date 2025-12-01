@@ -24,7 +24,7 @@
       <img src="https://img.shields.io/badge/GMail-100000?style=flat&logo=gmail&logoColor=white&color=darkred" />
     </a>
     <a href="https://www.twitter.com/alefontal">
-      <img src="https://img.shields.io/badge/Twitter-100000?style=flat&logo=twitter&logoColor=white&color=blue" />
+      <img src="https://img.shields.io/badge/Twitter-100000?style=flat&logo=x&logoColor=white&color=blue" />
     </a>
     <a href="https://www.instagram.com/afontal/">
       <img src="https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=white&color=D92C7C" />
@@ -40,7 +40,11 @@ I'm Alejandro, a researcher from Barcelona specialized in the application of Dat
 
 #### Current role
 
-I am currently performing my research in the Barcelona Institute for Global Health ([ISGlobal](https://www.isglobal.org/)), combining tools from Time Series Analysis, GIS, Metagenomic sequencing and Epidemiology to try to find out what are the etiologic agents causing a pedriatric syndrome affecting thousands of children every year: Kawasaki Disease.
+Currently, I am a postdoctoral researcher at the Barcelona Institute for Global Health (ISGlobal).
+
+In my research, I use a combination of time series analysis, GIS, metagenomics sequencing, and epidemiology to study the underlying drivers of diseases burdening public health systems. A big part of my work performed during my PhD and postdoc has focused on Kawasaki Disease, a pediatric syndrome that affects thousands of children each year and whose etiology is still a mystery after more than 50 years of study.
+
+Apart from this, I also work together with our colleagues in the AIRLAB on the aerobiome, studying the microbial diversity that inhabits the air, both indoors and outdoors (in the urban aerobiome but also in rural areas and up in the atmosphere).
 
 #### Technology Stack
 
