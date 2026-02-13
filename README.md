@@ -23,20 +23,13 @@
     <a href="mailto:alejandrofontal92@gmail.com">
       <img src="https://img.shields.io/badge/GMail-100000?style=flat&logo=gmail&logoColor=white&color=darkred" />
     </a>
-    <a href="https://www.twitter.com/alefontal">
-      <img src="https://img.shields.io/badge/Twitter-100000?style=flat&logo=x&logoColor=white&color=blue" />
-    </a>
-    <a href="https://www.instagram.com/afontal/">
-      <img src="https://img.shields.io/badge/Instagram-100000?style=flat&logo=Instagram&logoColor=white&color=D92C7C" />
-    </a>
-
   </p>
 </h1>
 </br>
 <p></p>
 </br>
 
-I'm Alejandro, a researcher from Barcelona specialized in the application of Data Science in several areas, including but not limited to Bioinformatics, Epidemiology and Computational Biomedicine, with a PhD in Biotechnology from the University of Barcelona. Feel free to reach me in any of the socials I left above!
+I'm Alejandro, a researcher from Barcelona specialized in the application of Data Science in several areas, including but not limited to Bioinformatics, Epidemiology and Computational Biomedicine, with a PhD in Biotechnology from the University of Barcelona. A common thread across my work is **applied machine learning on biological signals**, from **Laser-Induced Fluorescence (LIF) particle-level classification** to **protein engineering / sequence-to-function modelling** and broader health data. Feel free to reach me in any of the socials I left above!
 
 #### Current role
 
@@ -44,27 +37,10 @@ Currently, I am a postdoctoral researcher at the Barcelona Institute for Global 
 
 In my research, I use a combination of time series analysis, GIS, metagenomics sequencing, and epidemiology to study the underlying drivers of diseases burdening public health systems. A big part of my work performed during my PhD and postdoc has focused on Kawasaki Disease, a pediatric syndrome that affects thousands of children each year and whose etiology is still a mystery after more than 50 years of study.
 
-Apart from this, I also work together with our colleagues in the AIRLAB on the aerobiome, studying the microbial diversity that inhabits the air, both indoors and outdoors (in the urban aerobiome but also in rural areas and up in the atmosphere).
+Apart from this, I also work together with our colleagues in the AIRLAB on the aerobiome, studying the microbial diversity that inhabits the air, both indoors and outdoors (in the urban aerobiome but also in rural areas and up in the atmosphere), including ML-driven work on LIF-based microbial detection.
 
 #### Technology Stack
 
 ![Python](https://img.shields.io/badge/Python-100000?style=flat&logo=Python&logoColor=white&color=blue) ![R](https://img.shields.io/badge/R-100000?style=flat&logo=r&logoColor=white&color=blue) ![Git](https://img.shields.io/badge/Git-100000?style=flat&logo=git&logoColor=white&color=blue) ![Linux](https://img.shields.io/badge/Linux-100000?style=flat&logo=Linux&logoColor=white&color=blue) ![VS CODE](https://img.shields.io/badge/VSCode-100000?style=flat&logo=visualstudiocode&logoColor=white&color=blue) ![Docker](https://img.shields.io/badge/Docker-100000?style=flat&logo=docker&logoColor=white&color=blue)
 
-
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alfontal&theme=vue)
-
-
-<!--
-**AlFontal/AlFontal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
