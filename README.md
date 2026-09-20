@@ -4,8 +4,6 @@
   </a>
   Alejandro Fontal
   </br>
-  <sub>Data Science · Machine Learning · Health Data · Scientific Software</sub>
-  </br>
   <a href="https://alfontal.dev">
     <img alt="Alejandro Fontal's personal website" src="https://shields.io/badge/Personal-Website-223" />
   </a>
