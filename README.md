@@ -30,7 +30,7 @@ I'm Alejandro, a computational scientist and machine learning engineer from Barc
 
 My work usually revolves around extracting signal from complex health and biological data, building reproducible analytical workflows, and turning research questions into useful tools, models, and data products. That has included **machine learning on biomedical signals**, **observational and population health data**, **protein engineering**, **time-series and spatial analysis**, and scientific software.
 
-I use this space to share **research code**, **open-source tools**, **data workflows**, **visualisation projects**, infrastructure experiments, and other things I build at the intersection of science and software. I am always glad to connect around interesting problems, collaborations, and applied projects where rigorous analysis, pragmatic engineering, and good tooling all matter.
+I use this space to share **research code**, **open-source tools**, **data workflows**, **visualisation projects**, infrastructure experiments, and other things I build at the intersection of science and software. I am always glad to connect around interesting problems, collaborations, or applied projects!
 
 #### What I work on
 
@@ -45,7 +45,7 @@ My interests and past work include:
 
 Over the years I've worked on public-health questions including **Kawasaki Disease** and infectious-disease dynamics, alongside projects involving the **aerobiome**, **microbial detection**, biomedical signals, and other data-intensive biological and health systems.
 
-I am also deeply interested in the more practical engineering side of software: **self-hosting**, **home lab setups**, **VPS-based deployments**, service orchestration, containerised applications, and automation-heavy workflows. I enjoy building systems that are reproducible, maintainable, and useful beyond a single analysis.
+I am also deeply interested in the more practical engineering side of software: **self-hosting**, **home lab setups**, **VPS-based deployments**, service orchestration, containerised applications, and automation-heavy workflows. 
 
 Another area I care a lot about is the **digital diabetes ecosystem**, including **CGM data**, sensors, **Nightscout**, open-source diabetes tooling, and the broader intersection of health technology, data access, interoperability, and real-world user needs.
 
