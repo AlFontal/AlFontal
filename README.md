@@ -26,11 +26,11 @@
 <p></p>
 </br>
 
-I'm Alejandro, a computational scientist and machine learning engineer from Barcelona working across **data science**, **machine learning**, **health data**, and **scientific software**, with a background in **epidemiology**, **bioinformatics**, and the life sciences.
+I'm Alejandro, a computational scientist and machine learning engineer from Barcelona working in the interesection betwee **data science**, **machine learning**, **health data**, and **scientific software**, with a background in **epidemiology**, **bioinformatics**, and the **life sciences**.
 
-My work usually revolves around extracting signal from complex health and biological data, building reproducible analytical workflows, and turning research questions into useful tools, models, and data products. That has included **machine learning on biomedical signals**, **observational and population health data**, **protein engineering**, **time-series and spatial analysis**, and scientific software.
+My work usually revolves around extracting signal from complex (and messy) data, building reproducible analytical workflows, and turning research questions into _informed_ answers, useful tools, models, and data products. In my career, that has included **machine learning on biomedical signals**, **observational and population health data**, **protein engineering**, **time-series and spatial analysis**, and scientific software, but I tend to explore outside of those domains as well.
 
-I use this space to share **research code**, **open-source tools**, **data workflows**, **visualisation projects**, infrastructure experiments, and other things I build at the intersection of science and software. I am always glad to connect around interesting problems, collaborations, or applied projects!
+I use this space to share **research code**, **open-source tools**, **data viz projects**, homelab experiments, and other things I build at the intersection of science, my hobbies, and software. 
 
 #### What I work on
 
@@ -48,6 +48,45 @@ Over the years I've worked on public-health questions including **Kawasaki Disea
 I am also deeply interested in the more practical engineering side of software: **self-hosting**, **home lab setups**, **VPS-based deployments**, service orchestration, containerised applications, and automation-heavy workflows. 
 
 Another area I care a lot about is the **digital diabetes ecosystem**, including **CGM data**, sensors, **Nightscout**, open-source diabetes tooling, and the broader intersection of health technology, data access, interoperability, and real-world user needs.
+
+#### Selected projects
+
+**Code behind my papers**
+
+- [lif-bacteria-aerosols-ms](https://github.com/AlFontal/lif-bacteria-aerosols-ms): laser-induced fluorescence and machine learning to identify bacteria in aerosols in near real time.  [*Atmospheric Measurement Techniques*, 2025](https://doi.org/10.5194/amt-18-7297-2025)
+- [microbial-richness-troposphere](https://github.com/AlFontal/microbial-richness-troposphere): microbial richness and air chemistry above the boundary layer, and long-distance transport of potential pathogens.[*PNAS*, 2024](https://doi.org/10.1073/pnas.2404191121)
+- [kd-metals-swc](https://github.com/AlFontal/kd-metals-swc): metal-rich aerosols from intensive farming and urban pollution linked to Kawasaki disease outbreaks. [*Environmental Research Letters*, 2023](https://doi.org/10.1088/1748-9326/acd798) 
+- [covid-climate-signatures](https://github.com/AlFontal/covid-climate-signatures): climatic signatures in the COVID-19 waves across both hemispheres. [*Nature Computational Science*, 2021](https://doi.org/10.1038/s43588-021-00136-6)
+- [vasculitis2022-conference](https://github.com/AlFontal/vasculitis2022-conference): poster tracing Tokyo's air sources to find environmental triggers of Kawasaki disease. [*International Vasculitis and ANCA Workshop, 2022*](https://alfontal.dev/posts/kd-tokyo-air-sources/)
+
+**Analysis packages and tools**
+
+- [sdcpy](https://github.com/AlFontal/sdcpy): Python package for Scale-Dependent Correlation (SDC) analysis of time series → [PyPI](https://pypi.org/project/sdcpy/)
+- [sdcpy-studio](https://github.com/AlFontal/sdcpy-studio): FastAPI web app for running SDC and SDC-map analyses in the browser
+
+**Data pipelines and datasets**
+
+- [jp-idwr-db](https://github.com/AlFontal/jp-idwr-db): self-updating DuckDB database and Python package of Japanese infectious disease surveillance data (NIID IDWR)
+- [environmental-data-japan](https://github.com/AlFontal/environmental-data-japan): collected, cleaned, and population-exposure estimated environmental data sources for Japan
+- [aqi-stations-scraper](https://github.com/AlFontal/aqi-stations-scraper): scraper that builds historical air quality datasets from aqicn.org, scheduled with GitHub Actions (retired).
+
+**Data visualisation and maps**
+
+- [strava-home-runs](https://github.com/AlFontal/strava-home-runs): renders every run that started from one place as a 3D Blender video, each moving at its real pace over OpenStreetMap terrain
+- [arbres-bcn](https://github.com/AlFontal/arbres-bcn): interactive map of Barcelona's street tree inventory built with MapLibre, deck.gl and PMTiles → [Live Site](https://alfontal.github.io/arbres-bcn/)
+
+**Diabetes and CGM tools**
+
+- [dotscout-garmin](https://github.com/AlFontal/dotscout-garmin): Garmin watch face that shows glucose from Nightscout, xDrip+ or AndroidAPS → [Connect IQ store](https://apps.garmin.com/apps/838d7c3f-df37-4d58-80c7-28e9404f1c11)
+- [sugarboard](https://github.com/AlFontal/sugarboard): NiceGUI dashboard of personal CGM data from a Nightscout instance with Docker deployment.
+- [argos-extensions](https://github.com/AlFontal/argos-extensions): menu-bar plugins for GNOME (Argos) and macOS (xbar), including a Nightscout glucose readout.
+
+**Developer tools and templates**
+
+- [rmd-notebooks-vscode](https://github.com/AlFontal/rmd-notebooks-vscode): VS Code extension that opens `.rmd` and `.qmd` files as notebooks → [Marketplace](https://marketplace.visualstudio.com/items?itemName=Alfontal.rmd-notebooks-vscode)
+- [data-science-quarto-template](https://github.com/AlFontal/data-science-quarto-template): template for data science repos with Quarto reports published to GitHub Pages
+- [chatgpt-theme-switcher](https://github.com/AlFontal/chatgpt-theme-switcher): userscript that adds Catppuccin, Gruvbox, Tokyo Night and other themes to ChatGPT → [Greasy Fork](https://greasyfork.org/en/scripts/596084-chatgpt-theme-switcher)
+- [alfontal.dev](https://github.com/AlFontal/alfontal.dev): source of my personal site, built with Astro and Quarto
 
 #### Tech Stack
 
