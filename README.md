@@ -51,42 +51,42 @@ Another area I care a lot about is the **digital diabetes ecosystem**, including
 
 #### Selected projects
 
-**Code behind my papers**
+**Research code**
 
-- [lif-bacteria-aerosols-ms](https://github.com/AlFontal/lif-bacteria-aerosols-ms): laser-induced fluorescence and machine learning to identify bacteria in aerosols in near real time.  [*Atmospheric Measurement Techniques*, 2025](https://doi.org/10.5194/amt-18-7297-2025)
-- [microbial-richness-troposphere](https://github.com/AlFontal/microbial-richness-troposphere): microbial richness and air chemistry above the boundary layer, and long-distance transport of potential pathogens.[*PNAS*, 2024](https://doi.org/10.1073/pnas.2404191121)
-- [kd-metals-swc](https://github.com/AlFontal/kd-metals-swc): metal-rich aerosols from intensive farming and urban pollution linked to Kawasaki disease outbreaks. [*Environmental Research Letters*, 2023](https://doi.org/10.1088/1748-9326/acd798) 
-- [covid-climate-signatures](https://github.com/AlFontal/covid-climate-signatures): climatic signatures in the COVID-19 waves across both hemispheres. [*Nature Computational Science*, 2021](https://doi.org/10.1038/s43588-021-00136-6)
-- [vasculitis2022-conference](https://github.com/AlFontal/vasculitis2022-conference): poster tracing Tokyo's air sources to find environmental triggers of Kawasaki disease. [*International Vasculitis and ANCA Workshop, 2022*](https://alfontal.dev/posts/kd-tokyo-air-sources/)
+- [lif-bacteria-aerosols-ms](https://github.com/AlFontal/lif-bacteria-aerosols-ms): identifying airborne bacteria in real time with LIF and ML → [AMT 2025](https://doi.org/10.5194/amt-18-7297-2025)
+- [microbial-richness-troposphere](https://github.com/AlFontal/microbial-richness-troposphere): long-distance transport of microbes above the boundary layer → [PNAS 2024](https://doi.org/10.1073/pnas.2404191121)
+- [kd-metals-swc](https://github.com/AlFontal/kd-metals-swc): metal-rich aerosols and Kawasaki disease outbreaks → [ERL 2023](https://doi.org/10.1088/1748-9326/acd798)
+- [covid-climate-signatures](https://github.com/AlFontal/covid-climate-signatures): climate signatures in COVID-19 waves → [Nat. Comput. Sci. 2021](https://doi.org/10.1038/s43588-021-00136-6)
+- [vasculitis2022-conference](https://github.com/AlFontal/vasculitis2022-conference): Tokyo's air sources and Kawasaki disease (poster) → [Vasculitis 2022](https://alfontal.dev/posts/kd-tokyo-air-sources/)
 
-**Analysis packages and tools**
+**Analysis packages**
 
-- [sdcpy](https://github.com/AlFontal/sdcpy): Python package for Scale-Dependent Correlation (SDC) analysis of time series → [PyPI](https://pypi.org/project/sdcpy/)
-- [sdcpy-studio](https://github.com/AlFontal/sdcpy-studio): FastAPI web app for running SDC and SDC-map analyses in the browser
+- [sdcpy](https://github.com/AlFontal/sdcpy): Scale-Dependent Correlation analysis for time series → [PyPI](https://pypi.org/project/sdcpy/)
+- [sdcpy-studio](https://github.com/AlFontal/sdcpy-studio): web app for SDC and SDC-map analyses
 
-**Data pipelines and datasets**
+**Data pipelines**
 
-- [jp-idwr-db](https://github.com/AlFontal/jp-idwr-db): self-updating DuckDB database and Python package of Japanese infectious disease surveillance data (NIID IDWR)
-- [environmental-data-japan](https://github.com/AlFontal/environmental-data-japan): collected, cleaned, and population-exposure estimated environmental data sources for Japan
-- [aqi-stations-scraper](https://github.com/AlFontal/aqi-stations-scraper): scraper that builds historical air quality datasets from aqicn.org, scheduled with GitHub Actions (retired).
+- [jp-idwr-db](https://github.com/AlFontal/jp-idwr-db): self-updating database of Japanese infectious disease surveillance
+- [environmental-data-japan](https://github.com/AlFontal/environmental-data-japan): environmental and population-exposure data for Japan
+- [aqi-stations-scraper](https://github.com/AlFontal/aqi-stations-scraper): historical air quality data from aqicn.org (retired)
 
-**Data visualisation and maps**
+**Data visualisation**
 
-- [strava-home-runs](https://github.com/AlFontal/strava-home-runs): renders every run that started from one place as a 3D Blender video, each moving at its real pace over OpenStreetMap terrain
-- [arbres-bcn](https://github.com/AlFontal/arbres-bcn): interactive map of Barcelona's street tree inventory built with MapLibre, deck.gl and PMTiles → [Live Site](https://alfontal.github.io/arbres-bcn/)
+- [strava-home-runs](https://github.com/AlFontal/strava-home-runs): every run from one starting point, animated in 3D with Blender
+- [arbres-bcn](https://github.com/AlFontal/arbres-bcn): map of Barcelona's street trees → [live site](https://alfontal.github.io/arbres-bcn/)
 
-**Diabetes and CGM tools**
+**Diabetes and CGM**
 
-- [dotscout-garmin](https://github.com/AlFontal/dotscout-garmin): Garmin watch face that shows glucose from Nightscout, xDrip+ or AndroidAPS → [Connect IQ store](https://apps.garmin.com/apps/838d7c3f-df37-4d58-80c7-28e9404f1c11)
-- [sugarboard](https://github.com/AlFontal/sugarboard): NiceGUI dashboard of personal CGM data from a Nightscout instance with Docker deployment.
-- [argos-extensions](https://github.com/AlFontal/argos-extensions): menu-bar plugins for GNOME (Argos) and macOS (xbar), including a Nightscout glucose readout.
+- [dotscout-garmin](https://github.com/AlFontal/dotscout-garmin): Garmin watch face with Nightscout glucose → [Connect IQ](https://apps.garmin.com/apps/838d7c3f-df37-4d58-80c7-28e9404f1c11)
+- [sugarboard](https://github.com/AlFontal/sugarboard): dashboard for personal CGM data from Nightscout
+- [argos-extensions](https://github.com/AlFontal/argos-extensions): GNOME and macOS menu-bar plugins, including a glucose readout
 
-**Developer tools and templates**
+**Developer tools**
 
-- [rmd-notebooks-vscode](https://github.com/AlFontal/rmd-notebooks-vscode): VS Code extension that opens `.rmd` and `.qmd` files as notebooks → [Marketplace](https://marketplace.visualstudio.com/items?itemName=Alfontal.rmd-notebooks-vscode)
-- [data-science-quarto-template](https://github.com/AlFontal/data-science-quarto-template): template for data science repos with Quarto reports published to GitHub Pages
-- [chatgpt-theme-switcher](https://github.com/AlFontal/chatgpt-theme-switcher): userscript that adds Catppuccin, Gruvbox, Tokyo Night and other themes to ChatGPT → [Greasy Fork](https://greasyfork.org/en/scripts/596084-chatgpt-theme-switcher)
-- [alfontal.dev](https://github.com/AlFontal/alfontal.dev): source of my personal site, built with Astro and Quarto
+- [rmd-notebooks-vscode](https://github.com/AlFontal/rmd-notebooks-vscode): `.rmd` and `.qmd` files as notebooks in VS Code → [Marketplace](https://marketplace.visualstudio.com/items?itemName=Alfontal.rmd-notebooks-vscode)
+- [data-science-quarto-template](https://github.com/AlFontal/data-science-quarto-template): data science repo template with Quarto reports
+- [chatgpt-theme-switcher](https://github.com/AlFontal/chatgpt-theme-switcher): Catppuccin, Gruvbox and other themes for ChatGPT → [Greasy Fork](https://greasyfork.org/en/scripts/596084-chatgpt-theme-switcher)
+- [alfontal.dev](https://github.com/AlFontal/alfontal.dev): source of my personal site (Astro + Quarto)
 
 #### Tech Stack
 
